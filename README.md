@@ -1,4 +1,4 @@
-# dhemstercraft
+# dhemster_company craft
 
 Minecraft Game made with pure css and javascript.
 
